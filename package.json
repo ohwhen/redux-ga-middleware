@@ -1,6 +1,6 @@
 {
   "name": "redux-ga-middleware",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Track Redux Actions as Google Analytics (GA) events.",
   "main": "dist/index.js",
   "scripts": {
