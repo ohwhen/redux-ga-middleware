@@ -1,7 +1,7 @@
 {
   "name": "redux-ga-middleware",
   "version": "0.0.1",
-  "description": "Redux middleware to track redux actions as Google Analytics (GA) events.",
+  "description": "Track Redux Actions as Google Analytics (GA) events.",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
