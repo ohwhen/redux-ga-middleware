@@ -1,0 +1,26 @@
+{
+  "name": "redux-ga-middleware",
+  "version": "0.0.1",
+  "description": "Redux middleware to track redux actions as Google Analytics (GA) events.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohwhen/redux-ga-middleware.git"
+  },
+  "keywords": [
+    "redux",
+    "redux-middleware",
+    "analytics",
+    "google",
+    "analytics"
+  ],
+  "author": "Owen van Dijk",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ohwhen/redux-ga-middleware/issues"
+  },
+  "homepage": "https://github.com/ohwhen/redux-ga-middleware#readme"
+}
